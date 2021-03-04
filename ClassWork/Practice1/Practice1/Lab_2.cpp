@@ -34,18 +34,18 @@ using namespace std;
 //	a *= 2;
 //}
 
-int main()
-{
-	//type res = name(a, b, c);
-
-	//int x = 5, y = 10;
-	//int res = add(5, 9);
-	//cout << res << endl;
-	//print(res);
-	/*add(10);
-	print(x);
-	duplicate(x);
-	print(x)*/;
-
-	return 0;
-}
+//int main()
+//{
+//	//type res = name(a, b, c);
+//
+//	//int x = 5, y = 10;
+//	//int res = add(5, 9);
+//	//cout << res << endl;
+//	//print(res);
+//	/*add(10);
+//	print(x);
+//	duplicate(x);
+//	print(x)*/;
+//
+//	return 0;
+//}
